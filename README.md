@@ -1,10 +1,10 @@
-##App de finanças consumindo API e criando elementos com DOM
+## App de finanças consumindo API e criando elementos com DOM
 
-##Utilizado: HTML, CSS, JAVASCRIPT & json-server
+## Utilizado: HTML, CSS, JAVASCRIPT & json-server
 
 #json-server - simulação de back-end em um json local (encontrado como db.json no repositório)
 
-##Imagens:
+## Imagens:
 
 1- Adicionando saldo 
 
